@@ -1,6 +1,6 @@
-# Olá, Mundo
- Primeiro repositório de Git e Github
+# My First Projects 
 
- Repositório criado durante uma aula ao vivo!
+At the beginning of my studies, I started learning about Technology Systems 
+and will post all my code here.
 
- Esta linha eu adcionei diretamente no site!
+
