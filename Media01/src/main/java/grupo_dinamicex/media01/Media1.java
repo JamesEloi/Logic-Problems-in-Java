@@ -6,7 +6,7 @@ package grupo_dinamicex.media01;
 
 import java.util.Scanner;
 
-public class Media01 {
+public class Media1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -18,7 +18,7 @@ public class Media01 {
         double B = sc.nextDouble();
         
         //Java is going to make a calculus called ponderate media and print the final result in the screen
-        double mediaP = (A*3.5) + (B*7.5) / (3.5 + 7.5);
+        double mediaP = ((A*3.5) + (B*7.5)) / (3.5 + 7.5);
         System.out.printf("MEDIA = %.5f\n",mediaP);
  
     }
