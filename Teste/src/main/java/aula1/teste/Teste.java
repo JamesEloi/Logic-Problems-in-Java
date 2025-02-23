@@ -1,3 +1,5 @@
+package aula1.teste;
+
 
 public class Teste {
 
